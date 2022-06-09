@@ -1,3 +1,3 @@
 https://sh-rusel.github.io/rsschool-cv/cv
-&nbsp;
+<p>&nbsp;</p>
 https://sh-rusel.github.io/rsschool-cv/
