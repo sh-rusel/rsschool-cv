@@ -2,7 +2,7 @@
 
 ## Contact information:
 - __E-mail:__ sh.rusell@gmail.com
-- __GitHub:__ sh-rusell
+- __GitHub:__ sh-rusel
 - __Telegram:__ sh-rusell
 
 ## About myself
